@@ -2,3 +2,5 @@ Flash card program for learning French words. Displays the English after three s
 
 Improvement ideas:
 - enable loading different lists
+
+Check out a video of the finished project [here](https://youtu.be/A71ErnFiVB0?si=nx1czOIWfvlP9dJa)
